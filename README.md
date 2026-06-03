@@ -16,33 +16,37 @@
 
 ---
 
-## 🚀 About
+## 🚀 About me · Обо мне
 
-I craft clean, well-tested, framework-agnostic **Composer packages** for PHP & Laravel —
-payments, messaging, AI and commerce integrations used in production — plus full-stack
-**React / Inertia** apps, **React Native** mobile apps, and **.NET** desktop tools.
+**🇬🇧 English**
 
-- 🧩 Author of the **TexHub** open-source SDK suite
-- 🛠️ Stack: **PHP / Laravel**, **TypeScript / React**, **C# / .NET**, **Python**
-- 🎯 Focus: payments, messaging APIs, AI, e-commerce & developer experience
-- 🌍 Building products for the web & mobile — `info@texhub.pro`
+I'm a full-stack developer and the author of the **TexHub** open-source suite.
+I build clean, well-tested tools and apps — from framework-agnostic PHP/Laravel
+packages to web and mobile products. I care about good architecture, developer
+experience and shipping things that make work easier.
+
+**🇷🇺 Русский**
+
+Я full-stack разработчик и автор open-source набора **TexHub**.
+Делаю аккуратные, протестированные инструменты и приложения — от пакетов для
+PHP/Laravel до веб- и мобильных продуктов. Люблю хорошую архитектуру, удобство
+для разработчиков и решения, которые упрощают работу.
+
+> 📫 `info@texhub.pro` · 🌐 [texhub.pro](https://texhub.pro)
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack · Стек
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-F7523F?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Inertia](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
