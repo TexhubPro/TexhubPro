@@ -76,20 +76,6 @@ Framework-agnostic SDKs for **PHP & Laravel** — usable in any PHP project.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![TexHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=TexhubPro&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TexhubPro&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=TexhubPro&hide_border=true&theme=tokyonight)
-
-</div>
-
----
-
 <div align="center">
 
 ### Let's build something great 🚀
