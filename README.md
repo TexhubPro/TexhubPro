@@ -32,8 +32,6 @@ experience and shipping things that make work easier.
 PHP/Laravel до веб- и мобильных продуктов. Люблю хорошую архитектуру, удобство
 для разработчиков и решения, которые упрощают работу.
 
-> 📫 `info@texhub.pro` · 🌐 [texhub.pro](https://texhub.pro)
-
 ---
 
 ## 🧰 Tech Stack · Стек
@@ -71,8 +69,18 @@ Framework-agnostic SDKs for **PHP & Laravel** — usable in any PHP project.
 | ✉️ [**oson-sms**](https://github.com/TexhubPro/oson-sms) | OsonSMS gateway — single & bulk SMS, Bearer auth, optional signing |
 | 📦 [**moy-sklad**](https://github.com/TexhubPro/moy-sklad) | МойСклад JSON API 1.2 — products, stock, images, orders, reports, webhooks |
 | 🚚 [**laklak-b2b**](https://github.com/TexhubPro/laklak-b2b) | LakLak B2B delivery — cities, terminals, shipments, labels, webhooks |
+| 🧾 [**virtual-pos-andoz**](https://github.com/TexhubPro/virtual-pos-andoz) | Virtual POS / fiscal cash register (ОФД · Andoz) — shifts, receipts & corrections, fiscal documents, reports, counters |
 | 🔐 [**social-auth**](https://github.com/TexhubPro/social-auth) | Simple social OAuth login (Google & GitHub), elegant & fully tested |
 | 🦈 [**shark-starter-kit**](https://github.com/TexhubPro/shark-starter-kit) | Laravel + React (Inertia) starter with Shark UI & AI docs |
+
+---
+
+## 🧩 Chrome Extensions
+
+| Extension | What it does |
+|-----------|--------------|
+| 🖼️ [**texhub-image-downloader**](https://github.com/TexhubPro/texhub-image-downloader) | Browse and bulk-download images from any web page. |
+| 🎬 [**texhub-video-downloader**](https://github.com/TexhubPro/texhub-video-downloader) | Detect and download videos from web pages. |
 
 ---
 
