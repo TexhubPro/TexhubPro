@@ -14,23 +14,15 @@
 
 ---
 
-## About · Обо мне
-
-**English**
+## About
 
 Full-stack developer and author of the TexHub open-source suite. I build clean,
 well-tested tools and apps — from framework-agnostic PHP/Laravel packages to web and
 mobile products — with an eye on good architecture and developer experience.
 
-**Русский**
-
-Full-stack разработчик и автор open-source набора TexHub. Делаю аккуратные,
-протестированные инструменты и приложения — от пакетов для PHP/Laravel до веб- и
-мобильных продуктов, с упором на хорошую архитектуру и удобство разработки.
-
 ---
 
-## Tech Stack · Стек
+## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
