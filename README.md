@@ -16,9 +16,11 @@
 
 ## About
 
-Full-stack developer and author of the TexHub open-source suite. I build clean,
-well-tested tools and apps — from framework-agnostic PHP/Laravel packages to web and
-mobile products — with an eye on good architecture and developer experience.
+Hi, I'm Mahmudi Shodmehr — the developer behind TexHub. I build practical, well-tested
+tools that make other developers' work easier: framework-agnostic PHP and Laravel
+packages, React and Inertia web apps, and React Native mobile apps. I care about clean
+architecture, honest documentation, and shipping things that simply work. Always glad to
+collaborate and build something useful together.
 
 ---
 
