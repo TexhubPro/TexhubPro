@@ -16,11 +16,8 @@
 
 ## About
 
-Hi, I'm Mahmudi Shodmehr — the developer behind TexHub. I build practical, well-tested
-tools that make other developers' work easier: framework-agnostic PHP and Laravel
-packages, React and Inertia web apps, and React Native mobile apps. I care about clean
-architecture, honest documentation, and shipping things that simply work. Always glad to
-collaborate and build something useful together.
+Hi, I'm Mahmudi Shodmehr — a full-stack developer and the maker behind TexHub. I love
+building clean, reliable software and turning ideas into products that simply work.
 
 ---
 
